@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-ashdcash
+Enter the Name:<input type="text" id="name">
 </body>
 </html>
